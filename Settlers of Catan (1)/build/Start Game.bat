@@ -1,1 +1,2 @@
-java -jar Settlers of Catan.jar
+java -jar SettlersOfCatan.jar
+PAUSE
